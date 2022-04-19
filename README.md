@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently an undergraduate, reading **B.Sc.(Hons) in Computer Science and Engineering at University of Moratuwa, SriLanka** and working as an intern software engineer at **Mitra Innovation**
 
-- 🌱 I’m currently learning Springboot, Microservices, Docker, Kubernetes, ELK Stack
+- 🌱 I’m currently learning Springboot, Microservices, Docker, Kubernetes, ELK Stack, Jenkins
 
 - 📫 Reach me at **thujitha.18@cse.mrt.ac.lk**
 

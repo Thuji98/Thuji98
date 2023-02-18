@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 ### <h2> Hi there, I'm Thujitha Ponnuthurai 👋 </h2>
 
-- 🔭 I’m currently an undergraduate, reading **B.Sc.(Hons) in Computer Science and Engineering at University of Moratuwa, SriLanka** and working as an intern software engineer at **Mitra Innovation**
-
-- 🌱 I’m currently learning Springboot, Microservices, Docker, Kubernetes, ELK Stack, Jenkins
+- 🔭 I’m currently an undergraduate, reading **B.Sc.(Hons) in Computer Science and Engineering at University of Moratuwa, SriLanka**.
+- I worked as an intern software engineer at **Mitra Innovation**.
 
 - 📫 Reach me at **thujitha.18@cse.mrt.ac.lk**
 
@@ -33,7 +32,12 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Elastic search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/thujitha-ponnuthurai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thujitha-ponnuthurai/" height="30" width="40" /></a>

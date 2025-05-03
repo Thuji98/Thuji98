@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### <h2> Hi there, I'm Thujitha Ponnuthurai 👋 </h2>
 
-💼 I’m currently working as a Senior Software Engineer.
+💼 I’m currently working as a Senior Software Engineer at ZeroBeta.
 
 🎓 I graduated with a B.Sc.(Hons) in Computer Science and Engineering from the University of Moratuwa, Sri Lanka.
 

@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 ### <h2> Hi there, I'm Thujitha Ponnuthurai 👋 </h2>
 
-- 🔭 I’m currently an undergraduate, reading **B.Sc.(Hons) in Computer Science and Engineering at University of Moratuwa, SriLanka**.
-- I worked as an intern software engineer at **Mitra Innovation**.
+💼 I’m currently working as a Senior Software Engineer.
 
-- 📫 Reach me at **thujitha.18@cse.mrt.ac.lk**
+🎓 I graduated with a B.Sc.(Hons) in Computer Science and Engineering from the University of Moratuwa, Sri Lanka.
+
+💡 Previously worked as an Intern Software Engineer at Mitra Innovation.
+
+📫 Reach me at thujitha.18@cse.mrt.ac.lk
 
 ### Languages and Tools:
 
